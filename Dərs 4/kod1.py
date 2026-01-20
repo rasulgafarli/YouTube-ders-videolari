@@ -1,1 +1,1 @@
-print("Bu gün ahava çox gözəldir.")
+print("Bu gün hava çox gözəldir.")
