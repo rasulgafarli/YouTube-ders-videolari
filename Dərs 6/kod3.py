@@ -1,0 +1,5 @@
+print("Əziz ana", end = ",")
+print("can ana", end = "!")
+print()
+print("Gözəl", end = ",")
+print("mehriban ana", "!")
